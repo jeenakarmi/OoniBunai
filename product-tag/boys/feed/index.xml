@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Boys &#8211; OoniBunai</title>
+	<atom:link href="https://github.com/jeenakarmi/OoniBunai.git/product-tag/boys/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/jeenakarmi/OoniBunai.git</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Sep 2023 04:17:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://github.com/jeenakarmi/OoniBunai.git/wp-content/uploads/2023/07/logo.png</url>
+	<title>Boys &#8211; OoniBunai</title>
+	<link>https://github.com/jeenakarmi/OoniBunai.git</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Boys&#8217; Abstract Harmony Knit Topi</title>
+		<link>https://github.com/jeenakarmi/OoniBunai.git/product/boys-abstract-harmony-knit-topi/</link>
+					<comments>https://github.com/jeenakarmi/OoniBunai.git/product/boys-abstract-harmony-knit-topi/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 09:17:24 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/jeenakarmi/OoniBunai.git/?post_type=product#038;p=347</guid>
+
+					<description><![CDATA[A stylish and cozy abstract-patterned woolen topi designed for boys, adding a touch of artistic flair to their winter attire.
+<ul>
+ 	<li>* 100% wool</li>
+ 	<li>* Superior handcrafting</li>
+ 	<li>* Cozy and Soft</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-[38rem] xl:max-w-3xl md:py-6 lg:px-0 m-auto">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex items-start overflow-x-auto whitespace-pre-wrap break-words flex-col gap-4">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Designed specifically for boys, the Boys&#8217; Abstract Harmony Knit Topi combines style and comfort in a unique way. Featuring an abstract pattern with an array of colors, this woolen topi captures attention and adds a touch of artistic flair to any boy&#8217;s outfit. Crafted with soft and cozy materials, it provides warmth and comfort during colder days. The absence of tails gives it a sleek and minimalistic look, perfect for boys who appreciate a clean and modern aesthetic. Elevate your boy&#8217;s winter wardrobe with the Boys&#8217; Abstract Harmony Knit Topi, a fashionable and functional accessory.</p>
+</div>
+</div>
+</div>
+<div class="flex justify-between lg:block">
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible">
+<p>&nbsp;</p>
+<div class="flex gap-1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/jeenakarmi/OoniBunai.git/product/boys-abstract-harmony-knit-topi/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
